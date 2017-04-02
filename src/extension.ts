@@ -37,7 +37,7 @@ class AutothemeOneSwitcher {
 		} else {
 			vscode.workspace.getConfiguration().update(colorThemeIdentifier, themeTwo, true);
 		}
-	}
+``	}
 
 	dispose() {
 
