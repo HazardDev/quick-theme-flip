@@ -8,8 +8,6 @@ This is the README for your extension "quick-theme-flip". After writing up a bri
 
 ## Extension Settings
 
-For example:
-
 This extension contributes the following settings:
 
 * `qtf.themeOne`: Name of the first string (must be exactly accurate)
