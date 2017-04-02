@@ -4,11 +4,9 @@ This is the README for your extension "quick-theme-flip". After writing up a bri
 
 ## Demonstration
 
-![Demonstration](http://i.imgur.com/bUfVXqh.gif)
+[Demonstration](http://i.imgur.com/bUfVXqh.gif)
 
 ## Extension Settings
-
-For example:
 
 This extension contributes the following settings:
 
