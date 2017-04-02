@@ -52,6 +52,7 @@ export function activate(context: vscode.ExtensionContext) {
 	vscode.commands.registerCommand('qtf.chooseThemeTwo', () => qtf.chooseThemeTwo());
 	vscode.commands.registerCommand('qtf.changeTheme', () => qtf.changeTheme());
 
+
 	context.subscriptions.push(qtf);
 }
 

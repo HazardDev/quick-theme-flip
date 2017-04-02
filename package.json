@@ -42,7 +42,11 @@
                     "description": "Day Mode Theme"
                 }
             }
-        }
+        },
+        "keybindings": [{
+            "command": "qtf.changeTheme",
+            "key": "shift+alt+t"
+        }]
     },
     
     "scripts": {
